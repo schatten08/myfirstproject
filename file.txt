@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+HEAD
 changes fixed
-=======
-changes1``
->>>>>>> fixing_b fixed``
+changes1`` bugX
+fixing_b fixed
+     project`
+fixing_b fixed
 
-department````
+department
