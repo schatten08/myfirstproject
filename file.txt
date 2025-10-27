@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+changes fixed
+=======
+changes1``
+>>>>>>> fixing_b fixed``
+
+department````
